@@ -11,4 +11,3 @@ Soy **Sebastian Fabricio Tola Mamani**, estudiante de **Ingeniería en Sistemas*
 🌱 Actualmente explorando el universo de:
 - HTML, CSS y JavaScript 🖥🖥️
 - Algoritmos y lógica de programación 🤯
-![GIF divertido](https://i.imgur.com/jdtGiFS.gif)
